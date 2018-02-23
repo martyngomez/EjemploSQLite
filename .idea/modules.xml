@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EjemploSQLite.iml" filepath="$PROJECT_DIR$/EjemploSQLite.iml" />
+      <module fileurl="file://D:\MTN\codigo fuente\Android\SQLite-ABM-Henao\EjemploSQLite.iml" filepath="D:\MTN\codigo fuente\Android\SQLite-ABM-Henao\EjemploSQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLite-ABM-Henao.iml" filepath="$PROJECT_DIR$/SQLite-ABM-Henao.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\MTN\codigo fuente\Android\SQLite-ABM-Henao\app\app.iml" filepath="D:\MTN\codigo fuente\Android\SQLite-ABM-Henao\app\app.iml" />
     </modules>
   </component>
 </project>
